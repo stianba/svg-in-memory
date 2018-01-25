@@ -1,0 +1,8 @@
+{
+  "name": "svg-in-memory",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "git@github.com:stianba/svg-in-memory.git",
+  "author": "Stian Bakkane <stianba@gmail.com>",
+  "license": "MIT"
+}
