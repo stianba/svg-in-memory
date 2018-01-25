@@ -1,5 +1,6 @@
 {
   "name": "svg-in-memory",
+  "description": "Class to load svgs in memory to seamlessly use them across the app.",
   "version": "0.0.1",
   "main": "index.js",
   "repository": "git@github.com:stianba/svg-in-memory.git",
